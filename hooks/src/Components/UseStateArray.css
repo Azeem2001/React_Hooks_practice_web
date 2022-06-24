@@ -1,0 +1,25 @@
+.h1style{
+    width: 550px;
+    height: 70px;
+    background: white;
+    color: black;
+    font-size: 28px;
+    text-align: center;
+     border-radius: 50px;
+    vertical-align: -webkit-baseline-middle;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btnInner{
+    margin-left: 1.5rem;
+    height: 30px;
+    width: 100px;
+    border-radius: 50px;
+    font-size: 16px;
+    background-color: rgb(253, 11, 11);
+    color: white;
+    font-weight: 600;
+    border: none;
+    box-shadow: 5px 5px 10px black;
+}
